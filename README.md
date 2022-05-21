@@ -1,6 +1,6 @@
 - 👋 Hi, Eu sou o Palmiéres S Mota
-- 👀  Desenvolvimento WEB
-- Estudando desenvolvimento web, HTML/CSS3, Javascript, ReactJS, SQL, Java, Spring Framework, QA
+- 👀  Desenvolvedor Front-end
+- Desenvolvimento web, HTML/CSS3, Javascript, ReactJS, SQL, Java, Spring Framework, QA
 - https://www.linkedin.com/in/palmi%C3%A9res-s-mota-374b62140/
 - palmieres22@gmail. com
 - Fone: (77) 99861-4330
