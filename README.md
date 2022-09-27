@@ -11,7 +11,7 @@
 <div align="center">
 <a href="https://github.com/Palmieres2022">
 <img src="https://github-readme-stats.vercel.app/api?username=Palmieres2022&count_private=true&show_icons=true&theme=dark" /> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Palmieres2022&layout=compact&langs_count=7&theme=dark" /></div>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Palmieres2022&layout=compact&langs_count=7&theme=dark" /></div>
 <hr>
 <h2>Languagens👅</h2>
 <div style="display: inline_block"><br>
