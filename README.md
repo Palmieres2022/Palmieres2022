@@ -10,8 +10,7 @@
 <hr>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Palmieres2022&count_private=true&show_icons=true&theme=dark" /> 
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=valeskaleandro&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valeskaleandro&layout=compact&langs_count=7&theme=radical"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Palmieres2022&layout=compact&langs_count=7&theme=dark" /></div>
 </div>
 <div style="display: inline_block">
   <img align="center" alt="Val-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
