@@ -5,7 +5,6 @@
 <li>👨‍🎓Bachelor of Administration</li>
 <li>👨‍🎓Bachelor of Accounting Sciences</li>
 <li>👨‍🎓Student Systems Analysis and Development</li>
-<li>👨‍🎓Web Development Student at Alura</li>
 <li>🧑‍💻Developer (HTML, CSS, JS, Python).</li>
 
 <hr>
